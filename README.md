@@ -5,7 +5,7 @@
 * Traversal from Node A to Node B is expressed through Minimum Distance Tree.
 <html>
 <div float="left">
-  <img src="images/problem_graph_Dijkstra.JPG" style="vertical-align:middle; padding-right:1em " />
+  <img src="images/problem_graph_Dijkstra.JPG" style="vertical-align:middle; padding-right:5em " />
   <img src="images/arrow.JPG" style="vertical-align:middle; padding-right:1em "/>
   <img src="images/DijkstraDST.JPG" style="vertical-align:middle; padding-right:1em "/>
 </div>
@@ -16,7 +16,7 @@
 * MST connects all vertices together with the minimal total weighting for Tree edges
 <html>
 <p float="left">
-  <img src="images/problem_graph_MST.jpg" style="vertical-align:middle; padding-right:1em "/>
+  <img src="images/problem_graph_MST.jpg" style="vertical-align:middle; padding-right:5em "/>
   <img src="images/arrow.JPG" style="vertical-align:middle; padding-right:1em "/>
   <img src="images/mstMST.JPG" style="vertical-align:middle; padding-right:1em "/>
 </p>
