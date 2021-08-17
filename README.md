@@ -3,7 +3,7 @@
 
 ## Dijkstra's Algorithm
 **Find the shortest paths between 2 individual nodes in a graph**
-* Traversal from Node A to Node B is expressed through Minimum Distance Tree.
+* Traversal from Node A to Node B is expressed using a Minimum Distance Tree.
 <html>
 <body>
 <div float="left">
@@ -16,7 +16,7 @@
 
 ## Minimum Spanning Tree
 **Connect the WHOLE Graph such that total distance is minimized**
-* MST connects all vertices together with the minimal total weighting for Tree edges
+* MST connects all vertices together with the minimal total weight for Tree edges
 <html>
 <body>
 <p float="left">
