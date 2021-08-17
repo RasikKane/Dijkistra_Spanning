@@ -1,4 +1,5 @@
-### Stepwise analysis and realization using NetworkX of - Dijkistra's Algorithm for minimum distance, Minimum spanning Tree. 
+### Dijkistra's Algorithm for minimum distance, Minimum spanning Tree
+`Stepwise analysis and realization using NetworkX`
 
 ## Dijkstra's Algorithm
 **Find the shortest paths between 2 individual nodes in a graph**
